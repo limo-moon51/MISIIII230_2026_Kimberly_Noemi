@@ -1,0 +1,17 @@
+iniciar-programa
+    inicia-ejecucion
+        { TODO poner codigo aqui }
+     repetir 4 veces
+          inicio
+        mientras frente-libre hacer
+          inicio
+            deja-zumbador;
+             avanza;
+          fin;
+        repetir 3 veces 
+          inicio
+             gira-izquierda;
+          fin;
+      fin;
+    termina-ejecucion
+finalizar-programa
