@@ -1,0 +1,13 @@
+iniciar-programa
+  define-nueva-instruccion gira (kn) como
+     inicio
+      repetir kn veces
+       inicio
+         gira-izquierda;
+        fin;
+       fin;
+    inicia-ejecucion
+     gira (100);        
+        apagate;
+    termina-ejecucion
+finalizar-programa
